@@ -1,4 +1,4 @@
-# dating
+# Dating server
 <hr>
 <p>Описание эндпоинтов</p>
 <ul>
